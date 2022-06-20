@@ -1,0 +1,143 @@
+.fondo {
+    background: #050211;
+         width: 100%;
+              margin-left: 100px;
+                   max-width: 80%;
+                        border-radius: 1em;
+                             padding: 3em 1.5em;
+                                  text-align: center;
+                                  margin-top: 15%;
+                                  display: flex;
+                                  justify-content: center;
+                                  
+                                  
+                                  
+
+
+}
+
+body {
+
+    
+    background: url(https://c.wallhere.com/photos/25/af/Katana_Zero_city_samurai_rooftops_building-1874809.jpg!d);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    display: flex;
+    
+}
+
+
+.boton1{
+ 
+     position:relative;
+     display: inline-block;
+     padding: 5px 15px;
+     color: rgb(0, 0, 0);
+     letter-spacing: 1px;
+     font-size: 20px;
+     text-decoration: none;
+     overflow: hidden;
+     transition: 0.2s;
+     
+ 
+ }
+ 
+ .boton1:hover {
+ 
+     background: #09ff00;
+     box-shadow: 0 0 10px #09ff00, 0 0 40px #09ff00, 0 0 #09ff00;
+ }
+
+ .boton2{
+ 
+     position:relative;
+     display: inline-block;
+     padding: 5px 15px;
+     color: rgb(0, 0, 0);
+     letter-spacing: 1px;
+     font-size: 20px;
+     text-decoration: none;
+     overflow: hidden;
+     transition: 0.2s;
+ 
+ }
+ 
+ .boton2:hover {
+ 
+     background: #ff0000;
+     box-shadow: 0 0 10px #ff0000, 0 0 40px #ff0000, 0 0 80px #ff0000;
+ }
+
+ .boton3{
+ 
+     position:relative;
+     display: inline-block;
+     padding: 5px 15px;
+     color: rgb(0, 0, 0);
+     letter-spacing: 1px;
+     font-size: 20px;
+     text-decoration: none;
+     overflow: hidden;
+     transition: 0.2s;
+ 
+ }
+ 
+ .boton3:hover {
+ 
+     background: #ff3c00;
+     box-shadow: 0 0 10px #ff3c00, 0 0 40px #ff3c00, 0 0 80px #ff3c00;
+ }
+
+ .boton4{
+ 
+     position:relative;
+     display: inline-block;
+     padding: 5px 15px;
+     color: rgb(0, 0, 0);
+     letter-spacing: 1px;
+     font-size: 20px;
+     text-decoration: none;
+     overflow: hidden;
+     transition: 0.2s;
+ 
+ }
+ 
+ .boton4:hover {
+ 
+     background: #ff00b3;
+     box-shadow: 0 0 10px #ff00b3, 0 0 40px #ff00b3, 0 0 80px #ff00b3;
+ }
+
+.resultadow {
+
+     text-align: center;
+     font-size: 25px;
+
+}
+
+.limpiar {
+
+
+position:relative;
+     display: inline-block;
+     padding: 5px 15px;
+     color: rgb(0, 0, 0);
+     letter-spacing: 1px;
+     font-size: 20px;
+     text-decoration: none;
+     overflow: hidden;
+     transition: 0.2s;
+
+    
+}
+
+
+.limpiar:hover {
+
+     background: #f5ff64;
+     box-shadow: 0 0 10px #f5ff64, 0 0 40px #f5ff64, 0 0 80px #f5ff64;     
+}
+
+
